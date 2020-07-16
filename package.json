@@ -1,0 +1,29 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Refer to homework",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgbootcamp/Employee-Tracker.git"
+  },
+  "keywords": [
+    "homework",
+    "tracker",
+    "employee",
+    "tracker"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisgbootcamp/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/chrisgbootcamp/Employee-Tracker#readme"
+}
